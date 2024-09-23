@@ -1,0 +1,30 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    height: 25vh;
+    width: 100%;
+    background-color: aqua;
+    border: 2px solid red;
+}
+
+
+
+main {
+    height: 50vh;
+    width: 100%;
+    background-color: aqua;
+    border: 2px solid red;
+}
+
+
+
+
+footer {
+    height: 25vh;
+    width: 100%;
+    background-color: aqua;
+    border: 2px solid red;
+}
